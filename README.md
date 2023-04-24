@@ -1,0 +1,2 @@
+# AugmentedCentro
+Centro aumentado
